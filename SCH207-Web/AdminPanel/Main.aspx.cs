@@ -10,7 +10,7 @@ using Microsoft.Owin.Security;
 using Owin;
 using SCH207_Web.Models;
 
-namespace SCH207_Web.Account
+namespace SCH207_Web.AdminPanel
 {
     public partial class Main : System.Web.UI.Page
     {
