@@ -7,20 +7,11 @@
 // </автоматически создаваемое>
 //------------------------------------------------------------------------------
 
-namespace SCH207_Web
+namespace SCH207_Web.AdminPanel
 {
 
 
-    public partial class SiteMaster
+    public partial class Main
     {
-
-        /// <summary>
-        /// MainContent элемент управления.
-        /// </summary>
-        /// <remarks>
-        /// Автоматически создаваемое поле.
-        /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder MainContent;
     }
 }
